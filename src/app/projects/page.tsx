@@ -8,7 +8,7 @@ import "@splidejs/react-splide/css/core";
 
 import "@splidejs/react-splide/css";
 
-const x = [
+const PROJECTS = [
   {
     id: 1,
     name: "Coding Ducks",
